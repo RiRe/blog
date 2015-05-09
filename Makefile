@@ -12,10 +12,10 @@ FTP_HOST=localhost
 FTP_USER=anonymous
 FTP_TARGET_DIR=/
 
-SSH_HOST=blog.skylines-project.org
-SSH_PORT=23467
+SSH_HOST=blog.skylines.aero
+SSH_PORT=22
 SSH_USER=blog
-SSH_TARGET_DIR=/var/www/skylines-blog
+SSH_TARGET_DIR=/home/blog/public
 
 DEBUG ?= 0
 ifeq ($(DEBUG), 1)

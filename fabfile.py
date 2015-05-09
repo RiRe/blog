@@ -11,8 +11,8 @@ env.input_path = 'content'
 INPUT_PATH = env.input_path
 
 # Remote server configuration
-production = 'blog@blog.skylines-project.org:23467'
-dest_path = '/var/www/skylines-blog'
+production = 'blog@blog.skylines.aero'
+dest_path = '/home/blog/public'
 
 
 def clean():
