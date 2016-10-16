@@ -8,7 +8,7 @@ setup(
     author_email='',
     packages=[],
     scripts=[],
-    url='http://blog.skylines-project.org/',
+    url='https://blog.skylines.aero/',
     license='',
     install_requires=[
         "Pelican == 3.3",

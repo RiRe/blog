@@ -6,4 +6,4 @@ in Lüsse. Looks like an outlanding day today, but the guys are fighting
 hard...
 
 
-<https://www.skylines-project.org/tracking/1871,49,254,680/>
+<https://skylines.aero/tracking/1871,49,254,680/>

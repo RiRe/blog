@@ -8,12 +8,12 @@ else? Here it is!
 [![Timeline Views]({filename}/images/timeline-views.png)]({filename}/images/timeline-views.png)
 
 
-[SkyLines](https://www.skylines-project.org) has timeline views for every pilot
+[SkyLines](https://skylines.aero) has timeline views for every pilot
 and the whole system now. You can easily have a quick look at what your
 friends have done lately by watching their stream of public events.
 
 
-You can find the system timeline at <https://www.skylines-project.org/timeline/>
+You can find the system timeline at <https://skylines.aero/timeline/>
 and the user timelines linked on the individual pilot profiles.
 
 

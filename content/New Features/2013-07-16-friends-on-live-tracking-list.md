@@ -10,4 +10,4 @@ spot your friends in the Live Tracking list!
 
 If you are signed in you will see all pilots you follow and which are
 currently tracking in a separate list on top of the usual live tracking list
-at <https://www.skylines-project.org/tracking/>
+at <https://skylines.aero/tracking/>
