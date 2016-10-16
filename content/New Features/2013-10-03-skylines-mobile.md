@@ -1,7 +1,7 @@
 Title: SkyLines Mobile
 Date: 2013-10-03 18:51:44
 
-Have you visited the [SkyLines](https://www.skylines-project.org) webpage
+Have you visited the [SkyLines](https://skylines.aero) webpage
 already this evening?
 
 

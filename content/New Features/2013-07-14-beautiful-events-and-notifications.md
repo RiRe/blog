@@ -1,7 +1,7 @@
 Title: Beautiful events and notifications
 Date: 2013-07-14 18:31:38
 
-[SkyLines](https://www.skylines-project.org) just got more beautiful events and
+[SkyLines](https://skylines.aero) just got more beautiful events and
 notifications!
 
 
